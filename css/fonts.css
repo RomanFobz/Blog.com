@@ -1,0 +1,30 @@
+@font-face {
+	font-family: "Georgia";
+	src: url("fonts/Georgia/Georgia.eot");
+	src: url("fonts/Georgia/Georgia.eot?#iefix") format("embedded-opentype"),
+			 url("fonts/Georgia/Georgia.woff") format("woff"),
+			 url("fonts/Georgia/Georgia.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "GeorgiaBold";
+	src: url("fonts/GeorgiaBold/GeorgiaBold.eot");
+	src: url("fonts/GeorgiaBold/GeorgiaBold.eot?#iefix") format("embedded-opentype"),
+			 url("fonts/GeorgiaBold/GeorgiaBold.woff") format("woff"),
+			 url("fonts/GeorgiaBold/GeorgiaBold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: Bold;
+}
+
+
+@font-face {
+	font-family: "MinionPro";
+	src: url("fonts/MinionPro/MinionPro.eot");
+	src: url("fonts/MinionPro/MinionPro.eot?#iefix") format("embedded-opentype"),
+			 url("fonts/MinionPro/MinionPro.woff") format("woff"),
+			 url("fonts/MinionPro/MinionPro.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
